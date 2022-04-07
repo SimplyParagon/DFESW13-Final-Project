@@ -29,7 +29,7 @@ Jira link:
 https://nabil7.atlassian.net
 
 Risk Assessment:
-https://imgur.com/esItiH4
+https://imgur.com/a/UHUuqvd
 
 
 Thank you for viewing!
