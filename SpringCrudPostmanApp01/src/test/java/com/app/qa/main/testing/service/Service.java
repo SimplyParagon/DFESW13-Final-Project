@@ -40,13 +40,27 @@ System.out.println(result)	;
 	
 	
 	
+}
+
+
+
+}
+@SpringBootTest
+public class Service {
 	
+	
+@MockBean	
+private StudentRepository repo;
+	
+@Autowired
+private StudentServiceImpl service;
+
+
+
+
+
+
 }
 
 
 
-
-
-
-
-}
